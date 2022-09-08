@@ -1,7 +1,17 @@
 #include<stdio.h>
-
-/* main function that always returns 0 or success */
-/* Description: 'the program's description' */
+/**
+ *
+ *  * main - Entry point
+ *
+ *   * 
+ *
+ *    * Description: 'the program's description'
+ *
+ *     * 
+ *
+ *      * Return: Always 0 (Success)
+ *
+ *       */
 int main(void)
 
 {
