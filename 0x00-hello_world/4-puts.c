@@ -1,14 +1,6 @@
 #include<stdio.h>
 
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+/* main function that always returns 0 or success */
 
 int main(void)
 
