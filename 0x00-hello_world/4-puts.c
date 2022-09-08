@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /* main function that always returns 0 or success */
-
+/* Description: 'the program's description' */
 int main(void)
 
 {
@@ -10,4 +10,4 @@ int main(void)
 
 			return (0);
 
-}
+i}
